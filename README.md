@@ -18,7 +18,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=OnwukaDaniel&theme=radical)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OnwukaDaniel&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OnwukaDaniel&theme=radical)](https://github.com/ryo-ma/github-profile-trophy&theme=dark_dimmed)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onwukadaniel&layout=compact&theme=radical)
