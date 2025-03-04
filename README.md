@@ -34,6 +34,11 @@
 - 😄 Pronouns: He/Him
 
 <div align="center">
+  <h2>🚀 My Portfolio</h2>
+  <p>See my awesome projects: <a href="https://workonwuka.fly.dev">Link to Portfolio</a></p>
+</div>
+
+<div align="center">
   <h2>Contact Me</h2>
   <p>You can reach me at: <a href="mailto:contactiondaniel@gmail.com">Send a mail</a></p>
 </div>
